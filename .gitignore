@@ -1,0 +1,15 @@
+# Flutter files
+.dart_tool/
+.packages
+build/
+.pub-cache/
+.pub/
+*.iml
+
+# Firebase sensitive files
+lib/firebase_options.dart
+.firebase/
+.firebaserc
+google-services.json
+GoogleService-Info.plist
+.env
