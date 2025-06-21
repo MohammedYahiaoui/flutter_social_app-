@@ -1,16 +1,25 @@
-# social_app
+# Flutter Social Media App
 
-A new Flutter project.
+A simple social media mobile app built with Flutter and Firebase.
 
-## Getting Started
+## Features
 
-This project is a starting point for a Flutter application.
+- Firebase Auth (Sign up / Sign in)
+- Upload post with image
+- Like / Comment on posts
+- Follow / Unfollow users
+- Edit profile
+- Real-time updates with Firestore
 
-A few resources to get you started if this is your first Flutter project:
+> Firebase credentials are not included for security reasons.  
+To run the app, you must set up your own Firebase project.
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+## Tech stack
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Flutter & Dart
+- Firebase Auth / Firestore / Storage
+- Provider (state management)
+
+---
+
+Made by Mohammed El Amine Yahiaoui
